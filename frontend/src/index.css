@@ -157,6 +157,11 @@
 .contact-info {
     font-size: 1.2rem;
     font-weight: 700;
+    margin-left: 1.5rem;
+}
+
+.contact-socials {
+    margin-left: 3rem
 }
 
 .contact-heading {
@@ -178,6 +183,24 @@
     background-color: #fff;
     color: #6192D5;
     border: 1px solid #6192D5;
+}
+
+@media (max-width: 991.98px) {
+    .contact-left {
+        margin-left: 0;
+    }
+
+    .contact-right {
+        margin-right: 0;
+    }
+
+    .contact-info {
+        margin-left: 0;
+    }
+
+    .contact-socials {
+        margin-left: 0;
+    }
 }
 
 /* Page 3 */

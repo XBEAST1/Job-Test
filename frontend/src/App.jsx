@@ -37,7 +37,7 @@ const App = () => {
           </div>
           <div className="right-side mt-4 mt-lg-0 text-center text-lg-start">
             <img
-              src="/src/assets/logo.avif"
+              src="/assets/logo.avif"
               alt=""
               className="responsive-logo"
               width={450}
@@ -48,7 +48,7 @@ const App = () => {
         <div id="page2" className="mt-2 container">
           <div className="d-flex justify-content-center">
             <img
-              src="/src/assets/image.avif"
+              src="/assets/image.avif"
               alt=""
               className="responsive-img"
               width={1030}
@@ -85,28 +85,28 @@ const App = () => {
               <a href="#">
                 <img
                   width={30}
-                  src="/src/assets/icons/facebook.avif"
+                  src="/assets/icons/facebook.avif"
                   alt="Facebook"
                 />
               </a>
               <a href="#">
                 <img
                   width={30}
-                  src="/src/assets/icons/linkedin.avif"
+                  src="/assets/icons/linkedin.avif"
                   alt="LinkedIn"
                 />
               </a>
               <a href="#">
                 <img
                   width={30}
-                  src="/src/assets/icons/youtube.avif"
+                  src="/assets/icons/youtube.avif"
                   alt="YouTube"
                 />
               </a>
               <a href="#">
                 <img
                   width={30}
-                  src="/src/assets/icons/instagram.avif"
+                  src="/assets/icons/instagram.avif"
                   alt="Instagram"
                 />
               </a>

@@ -5,7 +5,7 @@ const Navbar = () => {
     <nav className="navbar navbar-expand-lg bg-body-tertiary container fixed-top nav-color">
       <div className="container-fluid">
         <a className="navbar-brand ps-4 pt-3 pb-3" href="">
-          <img width={80} src="/src/assets/nav-logo.avif" alt="" />
+          <img width={80} src="/assets/nav-logo.avif" alt="" />
         </a>
         <button
           className="navbar-toggler"
@@ -54,28 +54,28 @@ const Navbar = () => {
                 <a href="#">
                   <img
                     width={30}
-                    src="/src/assets/icons/facebook.avif"
+                    src="/assets/icons/facebook.avif"
                     alt="Facebook"
                   />
                 </a>
                 <a href="#">
                   <img
                     width={30}
-                    src="/src/assets/icons/linkedin.avif"
+                    src="/assets/icons/linkedin.avif"
                     alt="LinkedIn"
                   />
                 </a>
                 <a href="#">
                   <img
                     width={30}
-                    src="/src/assets/icons/youtube.avif"
+                    src="/assets/icons/youtube.avif"
                     alt="YouTube"
                   />
                 </a>
                 <a href="#">
                   <img
                     width={30}
-                    src="/src/assets/icons/instagram.avif"
+                    src="/assets/icons/instagram.avif"
                     alt="Instagram"
                   />
                 </a>
